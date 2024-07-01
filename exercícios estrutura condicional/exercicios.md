@@ -18,11 +18,11 @@ Fazer um programa para ler um número inteiro, e depois dizer se este número é
 Entrada: | Saída:
 :---: | :---: 
 -10 | NEGATIVO
-***
+
 Entrada: | Saída:
 :---: | :---: 
 8 | NAO NEGATIVO
-***
+
 Entrada: | Saída:
 :---: | :---: 
 0 | NAO NEGATIVO
@@ -39,11 +39,11 @@ Fazer um programa para ler um número inteiro e dizer se este número é par ou 
 Entrada: | Saída:
 :---: | :---: 
 12 | PAR
-***
+
 Entrada: | Saída:
 :---: | :---: 
 -27 | ÍMPAR
-***
+
 Entrada: | Saída:
 :---: | :---: 
 0 | PAR
@@ -60,11 +60,11 @@ Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sa
 Entrada: | Saída:
 :---: | :---: 
 6 24 | São múltiplos
-***
+
 Entrada: | Saída:
 :---: | :---: 
 6 25 | Não são múltiplos
-***
+
 Entrada: | Saída:
 :---: | :---: 
 24 6  | São múltiplos
@@ -82,11 +82,11 @@ Leia a hora inicial e a hora final de um jogo. A seguir calcule a duração do j
 Entrada: | Saída:
 :---: | :---: 
 16 2  | O jogo durou 10 hora(s)
-***
+
 Entrada: | Saída:
 :---: | :---: 
 0 0 | O jogo durou 24 hora(s)
-***
+
 Entrada: | Saída:
 :---: | :---: 
 2 16 | O jogo durou 14 hora(s)
@@ -111,7 +111,7 @@ Código | Especificação | Preço
 Entrada: | Saída:
 :---: | :---: 
 3 2 | Total: R$ 10.00
-***
+
 Entrada: | Saída:
 :---: | :---: 
 2 3 | Total: R$ 13.50
@@ -129,15 +129,15 @@ Você deve fazer um programa que leia um valor qualquer e apresente uma mensagem
 Entrada: | Saída:
 :---: | :---: 
 25.01 | Intervalo (25,50]
-***
+
 Entrada: | Saída:
 :---: | :---: 
 25.00 | Intervalo [0,25]
-***
+
 Entrada: | Saída:
 :---: | :---: 
 100.00 | Intervalo (75,100]
-***
+
 Entrada: | Saída:
 :---: | :---: 
 -25.02 | Fora de intervalo
@@ -160,11 +160,11 @@ Q3 | Q4
 Entrada: | Saída:
 :---: | :---: 
 4.5 -2.2 | Q4
-***
+
 Entrada: | Saída:
 :---: | :---: 
 0.1 0.1 | Q1
-***
+
 Entrada: | Saída:
 :---: | :---: 
 0.0 0.0 | Origem
@@ -191,11 +191,11 @@ Lembre que, se o salário for R$ 3002.00, a taxa que incide é de 8% apenas sobr
 Entrada: | Saída:
 :---: | :---: 
 3002.00 | R$ 80.36
-***
+
 Entrada: | Saída:
 :---: | :---: 
 1701.12 | Isento
-***
+
 Entrada: | Saída:
 :---: | :---: 
 4520.00 | R$ 355.60
