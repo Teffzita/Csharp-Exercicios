@@ -26,6 +26,10 @@ Entrada: | Saída:
 0 | SOMA = 0
 0 | 
 
+[**Resolução:**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex1/Ex1/Program.cs)
+
+***
+
 **Exercício 2**
 
 Faça um programa para ler o valor do raio de um círculo, e depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos.
