@@ -5,7 +5,7 @@ http://educandoweb.com.br
 
 Capítulo: Recapitulação de Lógica de Programação usando C# como linguagem
 
-**Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)*
+**Exercícios sobre Estrutura Condicional (if-else)**
 Exercícios obtidos do URI Online Judge: www.urionlinejudge.com.br
 
 ##  Exercícios propostos
