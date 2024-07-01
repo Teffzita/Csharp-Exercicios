@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steph\\OneDrive\\Documentos\\MeusProjetos\\C#\\exerc\u00EDcios estrutura sequencial\\Ex6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EFE32E-E65C-46E8-99AA-FE10CB90EB73}|Ex6\\Ex6.csproj|c:\\users\\steph\\onedrive\\documentos\\meusprojetos\\c#\\exerc\u00EDcios estrutura sequencial\\ex6\\ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EFE32E-E65C-46E8-99AA-FE10CB90EB73}|Ex6\\Ex6.csproj|solutionrelative:ex6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steph\\OneDrive\\Documentos\\MeusProjetos\\C#\\exerc\u00EDcios estrutura sequencial\\Ex6\\Ex6\\Program.cs",
+              "RelativeDocumentMoniker": "Ex6\\Program.cs",
+              "ToolTip": "C:\\Users\\steph\\OneDrive\\Documentos\\MeusProjetos\\C#\\exerc\u00EDcios estrutura sequencial\\Ex6\\Ex6\\Program.cs",
+              "RelativeToolTip": "Ex6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T16:53:11.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

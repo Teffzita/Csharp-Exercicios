@@ -1,0 +1,14 @@
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\Ex7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\Ex7.AssemblyInfoInputs.cache
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\Ex7.AssemblyInfo.cs
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\Ex7.csproj.CoreCompileInputs.cache
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\bin\Debug\net8.0\Ex7.exe
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\bin\Debug\net8.0\Ex7.deps.json
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\bin\Debug\net8.0\Ex7.runtimeconfig.json
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\bin\Debug\net8.0\Ex7.dll
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\bin\Debug\net8.0\Ex7.pdb
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\Ex7.dll
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\refint\Ex7.dll
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\Ex7.pdb
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\Ex7.genruntimeconfig.cache
+C:\Users\steph\OneDrive\Documentos\MeusProjetos\C#\exercícios estrutura condicional\Ex7\Ex7\obj\Debug\net8.0\ref\Ex7.dll
