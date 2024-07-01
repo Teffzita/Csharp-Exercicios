@@ -20,11 +20,9 @@ Entrada: | Saída:
 10 |SOMA = 40
 30 | 
 Entrada: | Saída:
-:---: | :---: 
 -30 | SOMA = -20
 10 | 
 Entrada: | Saída:
-:---: | :---: 
 0 | SOMA = 0
 0 | 
 
@@ -39,10 +37,8 @@ Entrada: | Saída:
 :---: | :---: 
 2.00 | A=12.5664
 Entrada: | Saída:
-:---: | :---: 
 100.64 | A=31819.3103
 Entrada: | Saída:
-:---: | :---: 
 150.00 | A=70685.7750
 
 **Exercício 3**
@@ -57,7 +53,6 @@ Entrada: | Saída:
 7 | 
 8 | 
 Entrada: | Saída:
-:---: | :---: 
 5 | DIFERENCA = 86
 6 | 
 -7 | 
@@ -74,12 +69,10 @@ Entrada: | Saída:
 100 | SALARY = U$ 550.00
 5.50 | 
 Entrada: | Saída:
-:---: | :---: 
 1 | NUMBER = 1
 200 | SALARY = U$ 4100.00
 20.50 | 
 Entrada: | Saída:
-:---: | :---: 
 6 | NUMBER = 6
 145 | SALARY = U$ 2254.75
 15.55 | 
@@ -94,11 +87,9 @@ Entrada: | Saída:
 12 1 5.30 | VALOR A PAGAR: R$ 15.50
 16 2 5.10 | 
 Entrada: | Saída:
-:---: | :---: 
 13 2 15.30 | VALOR A PAGAR: R$ 51.40
 161 4 5.20 | 
 Entrada: | Saída:
-:---: | :---: 
 1 1 15.10 | VALOR A PAGAR: R$ 30.20
 2 1 15.10 | 
 
@@ -115,14 +106,13 @@ e) a área do retângulo que tem lados A e B.
 Entrada: | Saída:
 :---: | :---: 
 3.0 4.0 5.2 | TRIANGULO: 7.800
- | CIRCULO: 84.949
- | TRAPEZIO: 18.200
- | QUADRADO: 16.000
- | RETANGULO: 12.000
+- | CIRCULO: 84.949
+- | TRAPEZIO: 18.200
+- | QUADRADO: 16.000
+- | RETANGULO: 12.000
  Entrada: | Saída:
-:---: | :---: 
 12.7 10.4 15.2 | TRIANGULO: 96.520
- | CIRCULO: 725.833
- | TRAPEZIO: 175.560
- | QUADRADO: 108.160
- | RETANGULO: 132.080
+- | CIRCULO: 725.833
+- | TRAPEZIO: 175.560
+- | QUADRADO: 108.160
+- | RETANGULO: 132.080
