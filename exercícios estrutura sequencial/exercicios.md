@@ -8,7 +8,7 @@ Capítulo: Recapitulação de Lógica de Programação usando C# como linguagem
 **Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)*
 Exercícios obtidos do URI Online Judge: www.urionlinejudge.com.br
 
-###  Exercícios propostos
+##  Exercícios propostos
 
 **Exercício 1**
 
