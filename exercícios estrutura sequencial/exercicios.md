@@ -5,7 +5,7 @@ http://educandoweb.com.br
 
 Capítulo: Recapitulação de Lógica de Programação usando C# como linguagem
 
-**Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)*
+**Exercícios sobre Estrutura Sequencial (entrada, processamento, saída)**
 Exercícios obtidos do URI Online Judge: www.urionlinejudge.com.br
 
 ##  Exercícios propostos
@@ -19,10 +19,14 @@ Entrada: | Saída:
 :---: | :---: 
 10 |SOMA = 40
 30 | 
+
 Entrada: | Saída:
+:---: | :---: 
 -30 | SOMA = -20
 10 | 
+
 Entrada: | Saída:
+:---: | :---: 
 0 | SOMA = 0
 0 | 
 
@@ -40,9 +44,13 @@ Considere o valor de π = 3.14159
 Entrada: | Saída:
 :---: | :---: 
 2.00 | A=12.5664
+
 Entrada: | Saída:
+:---: | :---: 
 100.64 | A=31819.3103
+
 Entrada: | Saída:
+:---: | :---: 
 150.00 | A=70685.7750
 
 [**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex2/Ex2/Program.cs)
@@ -60,7 +68,9 @@ Entrada: | Saída:
 6 | 
 7 | 
 8 | 
+
 Entrada: | Saída:
+:---: | :---: 
 5 | DIFERENCA = 86
 6 | 
 -7 | 
@@ -80,11 +90,15 @@ Entrada: | Saída:
 25 | NUMBER = 25
 100 | SALARY = U$ 550.00
 5.50 | 
+
 Entrada: | Saída:
+:---: | :---: 
 1 | NUMBER = 1
 200 | SALARY = U$ 4100.00
 20.50 | 
+
 Entrada: | Saída:
+:---: | :---: 
 6 | NUMBER = 6
 145 | SALARY = U$ 2254.75
 15.55 | 
@@ -102,10 +116,14 @@ Entrada: | Saída:
 :---: | :---: 
 12 1 5.30 | VALOR A PAGAR: R$ 15.50
 16 2 5.10 | 
+
 Entrada: | Saída:
+:---: | :---: 
 13 2 15.30 | VALOR A PAGAR: R$ 51.40
 161 4 5.20 | 
+
 Entrada: | Saída:
+:---: | :---: 
 1 1 15.10 | VALOR A PAGAR: R$ 30.20
 2 1 15.10 | 
 
@@ -130,7 +148,9 @@ Entrada: | Saída:
 . | TRAPEZIO: 18.200
 . | QUADRADO: 16.000
 . | RETANGULO: 12.000
- Entrada: | Saída:
+
+Entrada: | Saída:
+:---: | :---: 
 12.7 10.4 15.2 | TRIANGULO: 96.520
 . | CIRCULO: 725.833
 . | TRAPEZIO: 175.560
