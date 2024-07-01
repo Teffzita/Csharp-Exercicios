@@ -45,7 +45,7 @@ Entrada: | Saída:
 Entrada: | Saída:
 150.00 | A=70685.7750
 
-[**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex2/Ex2/Program.cs))
+[**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex2/Ex2/Program.cs)
 
 ***
 
