@@ -26,7 +26,7 @@ Entrada: | Saída:
 0 | SOMA = 0
 0 | 
 
-[**Resolução:**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex1/Ex1/Program.cs)
+[**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex1/Ex1/Program.cs)
 
 ***
 
@@ -45,6 +45,10 @@ Entrada: | Saída:
 Entrada: | Saída:
 150.00 | A=70685.7750
 
+[**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex2/Ex2/Program.cs))
+
+***
+
 **Exercício 3**
 
 Fazer um programa para ler quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
@@ -61,6 +65,10 @@ Entrada: | Saída:
 6 | 
 -7 | 
 8 | 
+
+[**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex3/Ex3/Program.cs)
+
+***
 
 **Exercício 4**
 
@@ -81,6 +89,10 @@ Entrada: | Saída:
 145 | SALARY = U$ 2254.75
 15.55 | 
 
+[**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex4/Ex4/Program.cs)
+
+***
+
 **Exercício 5**
 
 Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago
@@ -96,6 +108,10 @@ Entrada: | Saída:
 Entrada: | Saída:
 1 1 15.10 | VALOR A PAGAR: R$ 30.20
 2 1 15.10 | 
+
+[**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex5/Ex5/Program.cs)
+
+***
 
 **Exercício 6**
 
@@ -120,3 +136,5 @@ Entrada: | Saída:
 . | TRAPEZIO: 175.560
 . | QUADRADO: 108.160
 . | RETANGULO: 132.080
+
+[**Resolução**](https://github.com/Teffzita/Csharp-Exercicios/blob/main/exercícios%20estrutura%20sequencial/Ex6/Ex6/Program.cs)
